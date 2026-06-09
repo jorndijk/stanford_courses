@@ -4,7 +4,8 @@ Stanford open and it's youtube channel have a lot of open courses related to AI.
 ## CS229 Machine Learning I
 This course provides a broad introduction to machine learning and statistical pattern recognition. Topics include: supervised learning (generative/discriminative learning, parametric/non-parametric learning, neural networks, support vector machines); unsupervised learning (clustering, dimensionality reduction, kernel methods); learning theory (bias/variance tradeoffs, practical advice); reinforcement learning and adaptive control. The course will also discuss recent applications of machine learning, such as to robotic control, data mining, autonomous navigation, bioinformatics, speech recognition, and text and web data processing.
 
-The newest openly accessible variant of this course is of spring 2022: [CS229 Machine Learning I](https://cs229.stanford.edu/syllabus-spring2022.html).
+The newest openly accessible variant of this course is of spring 2022: [CS229 Machine Learning I](https://www.youtube.com/watch?v=Bl4Feh_Mjvo&list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy).
+The website with more information can be found at: [CS229 Website](https://cs229.stanford.edu/syllabus-spring2022.html).
 
 
 ## CS230 Deep Learning
